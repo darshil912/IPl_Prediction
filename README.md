@@ -16,7 +16,7 @@ The models are trained on historical IPL data and exposed through a clean multi-
 
 👉 (Add your deployed link here)
 
-https://your-app-name.streamlit.app
+https://iplpredictiondarshil.streamlit.app/
 🎬 App Preview (GIF)
 
 📌 Replace this with your screen recording GIF
